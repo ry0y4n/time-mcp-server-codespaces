@@ -1,0 +1,5 @@
+{
+    "name": "Time MCP Server Environment",
+    "dockerFile": "Dockerfile",
+    "workspaceFolder": "/workspace/time-mcp-server-codespaces"
+}
