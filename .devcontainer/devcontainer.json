@@ -1,8 +1,4 @@
 {
     "name": "Time MCP Server Environment",
-    // "dockerFile": "Dockerfile",
-    // "workspaceFolder": "/workspaces/time-mcp-server-codespaces",
-    // "forwardPorts": [3000, 5000, 8000],
-    // "remoteUser": "codespace"
     "postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh"
 }
