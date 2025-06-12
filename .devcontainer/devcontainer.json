@@ -1,5 +1,7 @@
 {
     "name": "Time MCP Server Environment",
     "dockerFile": "Dockerfile",
-    "workspaceFolder": "/workspaces/time-mcp-server-codespaces"
+    "workspaceFolder": "/workspaces/time-mcp-server-codespaces",
+    "forwardPorts": [3000, 5000, 8000],
+    "remoteUser": "codespace"
 }
